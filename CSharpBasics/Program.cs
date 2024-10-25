@@ -28,6 +28,7 @@ namespace CSharpBasics
         static void Main(string[] args)
         {
             Console.WriteLine("Sum => " + sum());
+            Console.Write("HHHhhhhhhhh");
             Console.ReadLine();
         }
     }
